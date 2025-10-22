@@ -78,7 +78,7 @@ const Index = () => {
   ];
 
   return (
-    <div className="min-h-screen bg-[#edeef0]">
+    <div className="min-h-screen bg-[#e7e8ec]">
       <div className="bg-[#517598] h-12 flex items-center px-4 shadow-md sticky top-0 z-50">
         <div className="flex items-center gap-3 text-white max-w-7xl mx-auto w-full">
           <Icon name="Menu" size={20} className="lg:hidden" />
